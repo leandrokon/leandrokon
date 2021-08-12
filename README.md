@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandrokon&show_icons=true&theme=onedark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrokon&layout=compact)](https://github.com/leandrokon/github-readme-stats"/>
+    
+</div>
 
 <!--
 **leandrokon/leandrokon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
